@@ -1,9 +1,9 @@
 # Official TensorFlow tutorials
 The following content belongs to the [official TensorFlow tutorials](https://www.tensorflow.org/tutorials).
 
-## Wrapup
+## Introduction
 To do
 
-## Content
+## Glossary
 
 * To do
