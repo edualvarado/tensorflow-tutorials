@@ -1,5 +1,5 @@
 # Official TensorFlow tutorials
-The following content belongs to the [TensorFlow tutorials](https://www.tensorflow.org/tutorials) and my walkthrough on it.
+The following content belongs to the [official TensorFlow tutorials](https://www.tensorflow.org/tutorials).
 
 ## Wrapup
 To do
