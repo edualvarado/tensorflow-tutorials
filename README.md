@@ -2,10 +2,8 @@
 The following content belongs to the [TensorFlow tutorials](https://www.tensorflow.org/tutorials) and my walkthrough on it.
 
 ## Wrapup
-To be done
+To do
 
 ## Content
 
-* To be done
-* To be done
-* To be done
+* To do
