@@ -72,7 +72,7 @@ style_path = tf.keras.utils.get_file('kandinsky5.jpg','https://storage.googleapi
 content_path = tf.keras.utils.get_file('YellowLabradorLooking_new.jpg', 'https://storage.googleapis.com/download.tensorflow.org/example_images/YellowLabradorLooking_new.jpg')
 #content_image = load_img(content_path)
 style_image = load_img(style_path)
-content_image = load_img("ID.jpg")
+content_image = load_img("alvaradopinero.eduardo.JPG")
 
 
 
@@ -240,7 +240,7 @@ plt.show()
 
 start = time.time()
 
-epochs = 10
+epochs = 3
 steps_per_epoch = 100
 
 step = 0
